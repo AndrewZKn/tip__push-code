@@ -1,10 +1,10 @@
-thay thế code thay vì update code
+replace code instead update code 
 push --force origin branch_name
 
-update code không thay code
+update code instead replace code
 push --force-with-lease origin branch_name
 
---set-upstream-to set-up remote
+
 
 
 #note
